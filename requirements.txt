@@ -1,0 +1,50 @@
+appdirs==1.4.4
+appnope==0.1.2
+astroid==2.4.2
+backcall==0.2.0
+black==20.8b1
+certifi==2020.12.5
+click==7.1.2
+cycler==0.10.0
+decorator==4.4.2
+ipykernel==5.4.2
+ipython==7.19.0
+ipython-genutils==0.2.0
+isort==5.6.4
+jedi==0.18.0
+joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+kiwisolver @ file:///opt/concourse/worker/volumes/live/6dee099b-3849-4b61-575b-0e9f54a3bd23/volume/kiwisolver_1607570822545/work
+lazy-object-proxy==1.4.3
+matplotlib @ file:///opt/concourse/worker/volumes/live/6db3817d-447c-451b-528a-2d6904862fb7/volume/matplotlib-base_1607974634094/work
+mccabe==0.6.1
+mypy-extensions==0.4.3
+numpy @ file:///opt/concourse/worker/volumes/live/317d3633-3972-452c-494a-92900a1134d5/volume/numpy_and_numpy_base_1607448161283/work
+olefile==0.46
+pandas==1.1.5
+parso==0.8.1
+pathspec==0.8.1
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///opt/concourse/worker/volumes/live/1160dfb1-b420-4470-4b20-1ac8ef693db2/volume/pillow_1607027374872/work
+prompt-toolkit==3.0.8
+ptyprocess==0.6.0
+Pygments==2.7.3
+pylint==2.6.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+pyzmq==20.0.0
+regex==2020.11.13
+scikit-learn @ file:///opt/concourse/worker/volumes/live/631abbad-761b-4de4-68d7-91e61a2e9b78/volume/scikit-learn_1607712367953/work
+scipy @ file:///opt/concourse/worker/volumes/live/1a36c32f-2781-4ba5-77b0-65164b818584/volume/scipy_1607617270393/work
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.2
+tornado @ file:///opt/concourse/worker/volumes/live/2c1a63a2-006b-48ee-56b9-0cfe8b4927f9/volume/tornado_1606942321278/work
+traitlets==5.0.5
+typed-ast==1.4.1
+typing-extensions==3.7.4.3
+wcwidth==0.2.5
+wrapt==1.12.1
